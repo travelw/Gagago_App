@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--    <string name="facebook_app_id">263785529355910</string>-->
+<!--    <string name="facebook_client_token">0bb4b2a4c5ad03fd8afd4b471441fda0</string>-->
+    <string name="facebook_app_id">965812348176671</string>
+    <string name="facebook_client_token">75e5393c77e4b33e30f60eff334d9e5b</string>
+    <string name="default_notification_channel_id" translatable="false">high_importance_channel</string>
+
+</resources>
+
+

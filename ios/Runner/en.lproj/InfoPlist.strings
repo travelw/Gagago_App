@@ -1,0 +1,9 @@
+"CFBundleDisplayName" = "Gagago";
+"NSCameraUsageDescription" = "Gagago uses access to your camera to allow you to take photos and upload to your profile and share with other users. If you allow access now, you won’t have to do it again. You can change your device settings at any time.";
+"NSLocationAlwaysAndWhenInUseUsageDescription" = "Meet Now suggestions will be presented based on your location. Your location helps Gagago improve your experience with better recommendations and is used to find people near you.";
+"NSLocationAlwaysUsageDescription" = "Meet Now suggestions will be presented based on your location. Your location helps Gagago improve your experience with better recommendations and is used to find people near you.";
+"NSLocationUsageDescription" = "Meet Now suggestions will be presented based on your location. Your location helps Gagago improve your experience with better recommendations and is used to find people near you.";
+"NSLocationWhenInUseUsageDescription" = "Meet Now suggestions will be presented based on your location. Your location helps Gagago improve your experience with better recommendations and is used to find people near you.";
+"NSMicrophoneUsageDescription" = "To send or upload voice messages, Gagago needs to access your microphone.";
+"NSPhotoLibraryAddUsageDescription" = "Gagago uses access to your camera roll to allow you to upload photos to your profile and share photos with other users. If you allow access now, you won’t have to do it again. You can change your device settings at any time.";
+"NSPhotoLibraryUsageDescription" = "Gagago uses access to your camera roll to allow you to upload photos to your profile and share photos with other users. If you allow access now, you won’t have to do it again. You can change your device settings at any time.";

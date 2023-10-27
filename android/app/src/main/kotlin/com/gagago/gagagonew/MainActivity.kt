@@ -1,0 +1,6 @@
+package com.gagago.gagagonew
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}

@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>App Transport Security Settings</key>
+	<dict>
+		<key>Allow Arbitrary Loads</key>
+		<true/>
+	</dict>
+	<key>CADisableMinimumFrameDurationOnPhone</key>
+	<true/>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>$(DEVELOPMENT_LANGUAGE)</string>
+	<key>CFBundleDisplayName</key>
+	<string>Gagago</string>
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</string>
+	<key>CFBundleIdentifier</key>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>gagagonew</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>$(MARKETING_VERSION)</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>$(CURRENT_PROJECT_VERSION)</string>
+	<key>FirebaseAppDelegateProxyEnabled</key>
+	<false/>
+	<key>FirebaseScreenReportingEnabled</key>
+	<true/>
+	<key>GADApplicationIdentifier</key>
+	<string>ca-app-pub-3940256099942544~1458002511</string>
+	<key>LSApplicationQueriesSchemes</key>
+	<array>
+		<string>sms</string>
+		<string>tel</string>
+	</array>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>LSSupportsOpeningDocumentsInPlace</key>
+	<true/>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSAllowsArbitraryLoads</key>
+		<true/>
+		<key>NSAllowsArbitraryLoadsInWebContent</key>
+		<true/>
+	</dict>
+	<key>NSAppleMusicUsageDescription</key>
+	<string>Play using while you are hiking</string>
+	<key>NSBonjourServices</key>
+	<array>
+		<string>_dartobservatory._tcp</string>
+	</array>
+	<key>NSCalendarsUsageDescription</key>
+	<string>Your app accesses Calendar.</string>
+	<key>NSCameraUsageDescription</key>
+	<string>To click and upload photos from your camera, Gagago needs to access your camera</string>
+	<key>NSContactsUsageDescription</key>
+	<string>Your app accesses contacts.</string>
+	<key>NSExtensionActivationRule</key>
+	<dict>
+		<key>NSExtensionActivationSupportsWebURLWithMaxCount</key>
+		<integer>200</integer>
+	</dict>
+	<key>NSExtensionMainStoryboard</key>
+	<string>MainInterface</string>
+	<key>NSExtensionPointIdentifier</key>
+	<string>com.apple.share-services</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>Meet Now suggestions will be presented based on your location.</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>Meet Now suggestions will be presented based on your location.</string>
+	<key>NSLocationUsageDescription</key>
+	<string>Meet Now suggestions will be presented based on your location.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Meet Now suggestions will be presented based on your location.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>To send or upload voice messages, Gagago needs to access your microphone</string>
+	<key>NSMotionUsageDescription</key>
+	<string>Your app accesses motion</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>To pick and upload photos from your device, Gagago needs to access your gallery.</string>
+    <key>NSPhotoLibraryUsageDescription</key>
+	<string>To pick and upload photos from your device, Gagago needs to access your gallery.</string>
+
+	<key>NSSpeechRecognitionUsageDescription</key>
+	<string>Your app accesses speech recognition.</string>
+	<key>LSApplicationQueriesSchemes</key>
+    <array>
+    	<string>instagram-stories</string>
+    	<string>facebook-stories</string>
+    	<string>facebook</string>
+    	<string>instagram</string>
+    	<string>twitter</string>
+    	<string>whatsapp</string>
+        <string>tg</string>
+    </array>
+	<key>UIApplicationSupportsIndirectInputEvents</key>
+	<true/>
+	<key>UIBackgroundModes</key>
+	<array>
+		<string>fetch</string>
+		<string>remote-notification</string>
+	</array>
+	<key>UIFileSharingEnabled</key>
+	<true/>
+	<key>UILaunchStoryboardName</key>
+	<string>LaunchScreen</string>
+	<key>UIMainStoryboardFile</key>
+	<string>Main</string>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+	<key>UISupportedInterfaceOrientations~ipad</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+	</array>
+	<key>UIViewControllerBasedStatusBarAppearance</key>
+	<false/>
+	<key>io.flutter.embedded_views_preview</key>
+	<string>YES</string>
+
+	<key>CFBundleURLTypes</key>
+    <array>
+      <dict>
+      <key>CFBundleURLSchemes</key>
+      <array>
+        <string>fb965812348176671</string>
+      </array>
+      </dict>
+    </array>
+    <key>FacebookAppID</key>
+    <string>965812348176671</string>
+    <key>FacebookClientToken</key>
+    <string>75e5393c77e4b33e30f60eff334d9e5b</string>
+    <key>FacebookDisplayName</key>
+    <string>Gagago</string>
+
+<key>LSApplicationQueriesSchemes</key>
+<array>
+  <string>fbapi</string>
+  <string>fb-messenger-share-api</string>
+</array>
+</dict>
+</plist>

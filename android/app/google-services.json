@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "21675306731",
+    "project_id": "gaga-go",
+    "storage_bucket": "gaga-go.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21675306731:android:54bb526589dcdf6011d8ae",
+        "android_client_info": {
+          "package_name": "com.gagago.gagagonew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "21675306731-ei8lc9uf33uq8hsk01jd91la5q12hojt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUR8c_rD0qA2L2hip3JSJIYswxCTK8y8c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "21675306731-ei8lc9uf33uq8hsk01jd91la5q12hojt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
